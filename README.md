@@ -1,4 +1,4 @@
-# Parallel-and-Massive-Computing
+# Parallel and Massive Computing
 Labs carried out during the subject. Usage of OpenMP and MPI.
 
 
